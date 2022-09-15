@@ -1,0 +1,6 @@
+framework module Pods_FSPagerView_Demo {
+  umbrella header "Pods-FSPagerView Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
